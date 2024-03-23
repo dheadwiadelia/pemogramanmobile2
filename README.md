@@ -33,4 +33,4 @@ implementation("com.github.chuckerteam.chucker:library:3.3.0")
 
 ## Link Youtube
 
-[Link PDF] 
+[Link PDF](file:///C:/Users/LAB%203.5%20RPL/Downloads/312210116_DHEA%20DWI%20ADELIA.pdf)
