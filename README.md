@@ -31,6 +31,10 @@ implementation("com.github.chuckerteam.chucker:library:3.3.0")
 ![run](https://github.com/dheadwiadelia/pemogramanmobile2/assets/115794875/dadb399c-a8c5-4fd8-849b-f54a6fb24bb0)
 
 
-## Link PDF
+## Link YouTube
 
-[Link PDF](file:///C:/Users/LAB%203.5%20RPL/Downloads/312210116_DHEA%20DWI%20ADELIA.pdf)
+- Part 1
+https://youtu.be/8mH37rh97mU?si=69SOgbwfNsTzSVF1
+
+- Part 2
+https://youtu.be/8cAEyN0Xuc8?si=QdCMlYTy5Ot6XWlz
